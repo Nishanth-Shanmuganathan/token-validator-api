@@ -1,6 +1,12 @@
-# Local setup
+## Available Scripts
 
+In the project directory, you can run:
 
-Install all dependencies using => npm install   
+### `npm start`
 
-To start the local server use => npm start 
+Runs the app in the your local machine.\
+Hit requests from postman to [http://localhost:2000](http://localhost:2000) to view the response.
+
+### `npm run dev`
+
+Runs the app in development mode.\
